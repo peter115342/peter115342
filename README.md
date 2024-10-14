@@ -1,19 +1,19 @@
 # Hello there! 👋
 
-I'm a **Data Engineering Intern** passionate about **software engineering** and continuously improving my skills. Currently studying **Computer Science** at **FEI STU**.
+I'm passionate about building scalable applications and continuously improving my skills. Currently studying **Computer Science** at **FEI STU** and gaining hands-on experience as a **Data Engineering Intern**.
 
 ## 🔭 What I'm Working On
 
-- Building efficient data pipelines and ETL/ELT processes
-- Exploring new technologies in software engineering
-- Occasionally working on full-stack projects
+- Developing robust software solutions using **Python**, **Java**, and **JavaScript**
+- Building efficient data pipelines and **ETL/ELT** processes
+- Exploring new technologies in **software and data engineering**
 
 ## 🌱 What I'm Learning
 
-- Deepening my knowledge in **data warehousing** and **data modeling**
-- Learning about **big data technologies** like **Spark**
-- Exploring **cloud platforms** (AWS, Azure, GCP)
-- Enhancing my skills in **Python**, **SQL** and **Java**
+- Enhancing my skills in **software architecture** and **design patterns**
+- Deepening my knowledge in **data engineering** and **big data technologies** like **Spark**
+- Exploring **cloud platforms** (AWS, Azure, GCP) for scalable application deployment
+- Improving proficiency in **Python**, **SQL**, and **Java**
 
 ## 💻 Technologies & Tools
 
