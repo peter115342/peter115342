@@ -4,7 +4,7 @@ I'm a **Data Engineering Intern** passionate about **software engineering** and 
 
 ## 🔭 What I'm Working On
 
-- Building efficient data pipelines and ETL processes
+- Building efficient data pipelines and ETL/ELT processes
 - Exploring new technologies in software engineering
 - Occasionally working on full-stack projects
 
