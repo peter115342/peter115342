@@ -4,7 +4,7 @@ I'm passionate about building scalable applications and continuously improving m
 
 ## 🔭 What I'm Working On
 
-- Developing robust software solutions using **Python**, **Java**, and **JavaScript**
+- Developing software solutions using **Python**, **Java**, and **JavaScript**
 - Building efficient data pipelines and **ETL/ELT** processes
 - Exploring new technologies in **software and data engineering**
 
