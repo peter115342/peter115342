@@ -11,7 +11,7 @@ I'm passionate about building scalable applications and continuously improving m
 ## 🌱 What I'm Learning
 
 - Enhancing my skills in **software architecture** and **design patterns**
-- Deepening my knowledge in **data engineering** and **big data technologies** like **Spark**
+- Deepening my knowledge in **data engineering** and **big data technologies**
 - Exploring **cloud platforms** (AWS, Azure, GCP) for scalable application deployment
 - Improving proficiency in **Python**, **SQL**, and **Java**
 
