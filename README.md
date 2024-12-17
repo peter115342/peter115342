@@ -1,7 +1,7 @@
 # Hello there! 👋
 
-I'm passionate about building scalable applications and continuously improving my skills. Currently studying **Computer Science** at **FEI STU** and gaining hands-on experience as a **Data Engineering Intern**.
-
+I'm interested in data, building scalable applications and continuously improving my skills. Currently studying **Computer Science** at **FEI STU** and gaining hands-on experience as a **Data Engineering Intern**.
+  
 ## 🔭 What I'm Working On
 
 - Developing software solutions using **Python**, **Java**, and **JavaScript**
@@ -12,7 +12,7 @@ I'm passionate about building scalable applications and continuously improving m
 
 - Enhancing my skills in **software architecture** and **design patterns**
 - Deepening my knowledge in **data engineering** and **big data technologies**
-- Exploring **cloud platforms** (AWS, Azure, GCP) for scalable application deployment
+- Exploring **cloud platforms** (AWS, Azure, GCP)
 - Improving proficiency in **Python**, **SQL**, and **Java**
 
 ## 💻 Technologies & Tools
