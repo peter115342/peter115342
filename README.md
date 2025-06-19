@@ -2,20 +2,20 @@
 
 I'm interested in data, building scalable applications and continuously improving my skills. Currently studying **Computer Science** at **FEI STU** and gaining hands-on experience as a **Data Engineering Intern**.
   
-## 🔭 What I'm Working On
+## What I'm Working On
 
 - Developing software solutions using **Python**, **Java**, and **JavaScript**
 - Building efficient data pipelines and **ETL/ELT** processes
 - Exploring new technologies in **software and data engineering**
 
-## 🌱 What I'm Learning
+## What I'm Learning
 
 - Enhancing my skills in **software architecture** and **design patterns**
 - Deepening my knowledge in **data engineering** and **big data technologies**
 - Exploring **cloud platforms** (Azure, GCP)
 - Improving proficiency in **Python**, **SQL**, and **Java**
 
-## 💻 Technologies & Tools
+## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,7 +23,7 @@ I'm interested in data, building scalable applications and continuously improvin
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
 
-## 📫 Get in Touch
+## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/peter-m-4a945322a)
 
