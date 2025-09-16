@@ -23,9 +23,10 @@ I'm interested in data, building scalable applications and continuously improvin
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
 
-## Get in Touch
+## Links
 
 - [LinkedIn](https://www.linkedin.com/in/peter-m-4a945322a)
+- [muzslay.com](http://muzslay.com/)
 
 <!--
 **YourUsername/YourUsername** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
