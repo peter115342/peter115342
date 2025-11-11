@@ -1,4 +1,4 @@
-# Hello there! 👋
+# 👋
 
 I'm interested in data, building scalable applications and continuously improving my skills. Currently studying **Computer Science** at **FEI STU** and gaining hands-on experience as a **Data Engineering Intern**.
   
@@ -18,7 +18,6 @@ I'm interested in data, building scalable applications and continuously improvin
 ## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
