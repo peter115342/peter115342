@@ -13,7 +13,7 @@ I'm interested in data, building scalable applications and continuously improvin
 - Enhancing my skills in **software architecture** and **design patterns**
 - Deepening my knowledge in **data engineering** and **big data technologies**
 - Exploring **cloud platforms** (Azure, GCP)
-- Improving proficiency in **Python**, **SQL**, and **Java**
+- Improving proficiency in **Python** and **SQL**
 
 ## Technologies & Tools
 
