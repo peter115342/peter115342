@@ -4,7 +4,7 @@ I'm interested in data, building scalable applications and continuously improvin
   
 ## What I'm Working On
 
-- Developing software solutions using **Python**, **Java**, and **JavaScript**
+- Developing software solutions using **Python**, **SQL**, and **JavaScript**
 - Building efficient data pipelines and **ETL/ELT** processes
 - Exploring new technologies in **software and data engineering**
 
